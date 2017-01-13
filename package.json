@@ -1,0 +1,20 @@
+{
+  "name": "tuitQuacBot",
+  "version": "0.0.1",
+  "description": "piu piu",
+  "main": "app.js",
+  "repository": "https://github.com/arrosnegre/deleteTweetsAndFavs",
+  "contributors": [
+    {
+      "name": "Arròs Negre"
+    }
+  ],
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "twitter": "latest",
+    "colors": "latest"
+  }
+}
