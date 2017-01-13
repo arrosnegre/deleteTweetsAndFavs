@@ -1,5 +1,4 @@
 # Documentation
-para correr el script se necesita tener instalado
 To run the script, needs Nodejs and npm installed:
 ```
 Nodejs and npm https://nodejs.org/en/download/
